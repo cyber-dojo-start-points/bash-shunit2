@@ -1,14 +1,15 @@
-
 {
-  "image_name": "cyberdojofoundation/bash_shunit2",
+  "image_name": "cyberdojofoundation/bash_shunit2:3f7acf0",
   "display_name": "Bash, shunit2",
   "visible_filenames": [
-     "test_hiker.sh",
-     "shunit2_help.txt",
-     "hiker.sh",
-     "cyber-dojo.sh"
+    "test_hiker.sh",
+    "shunit2_help.txt",
+    "hiker.sh",
+    "cyber-dojo.sh"
   ],
-  "filename_extension": [ ".sh" ],
+  "filename_extension": [
+    ".sh"
+  ],
   "max_seconds": 10,
   "tab_size": 4
 }
