@@ -1,5 +1,5 @@
 {
-  "image_name": "cyberdojofoundation/bash_shunit2:3f7acf0",
+  "image_name": "cyberdojofoundation/bash_shunit2:32503c4",
   "display_name": "Bash, shunit2",
   "visible_filenames": [
     "test_hiker.sh",
