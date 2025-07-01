@@ -1,5 +1,5 @@
 {
-  "image_name": "ghcr.io/cyber-dojo-languages/bash_shunit2:5634150",
+  "image_name": "ghcr.io/cyber-dojo-languages/bash_shunit2:870be1c",
   "display_name": "Bash 5.2.37, shunit2 2.1.8",
   "visible_filenames": [
     "test_hiker.sh",
