@@ -1,6 +1,14 @@
 {
   "image_name": "ghcr.io/cyber-dojo-languages/bash_shunit2:07becff",
   "display_name": "Bash 5.3.3, shunit2 2.1.9",
+  "language": [
+    "Bash",
+    "5.3.3"
+  ],
+  "test_framework": [
+    "shunit2",
+    "2.1.9"
+  ],
   "visible_filenames": [
     "test_hiker.sh",
     "shunit2_help.txt",
