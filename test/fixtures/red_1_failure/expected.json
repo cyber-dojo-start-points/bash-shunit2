@@ -1,0 +1,6 @@
+{
+  "match_counts": {
+    "^Ran 1 test\\.$": 1,
+    "^FAILED \\(failures=1\\)$": 1
+  }
+}

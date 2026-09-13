@@ -1,0 +1,19 @@
+#!/bin/bash
+
+source ./hiker.sh
+
+test_life_the_universe_and_everything()
+{
+  local expected=42
+  local actual=$(answer)
+  assertEquals ${expected} ${actual}
+}
+
+test_the_answer_is_not_the_question()
+{
+  local actual=$(answer)
+  assertNotEquals "6 * 7" "${actual}"
+}
+
+# load and run shUnit2
+source shunit2

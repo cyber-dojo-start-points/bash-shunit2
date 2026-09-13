@@ -1,0 +1,4 @@
+{
+  "matches": [ "^loading hiker.sh$" ],
+  "match_counts": { "^Ran 1 test\\.$": 1 }
+}
