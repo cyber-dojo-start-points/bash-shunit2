@@ -1,3 +1,4 @@
 {
+  "max_output_lines": 20,
   "match_counts": { "^Ran 3 tests\\.$": 1 }
 }
